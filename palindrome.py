@@ -12,4 +12,4 @@ def is_palindrome(value: str) -> bool:
         return False
 
 
-print(is_palindrome("Palindrome is hard to compile"))
+
